@@ -1,0 +1,91 @@
+<!--
+    * Copyright (c) 2011-2015 BlackBerry Limited.
+    *
+    * Licensed under the Apache License, Version 2.0 (the "License");
+    * you may not use this file except in compliance with the License.
+    * You may obtain a copy of the License at
+    *
+    * http://www.apache.org/licenses/LICENSE-2.0
+    *
+    * Unless required by applicable law or agreed to in writing, software
+    * distributed under the License is distributed on an "AS IS" BASIS,
+    * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    * See the License for the specific language governing permissions and
+    * limitations under the License.
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dummyEdit"
+        android:layout_alignParentTop="true"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Configuraiton.keyboard:"
+        android:id="@+id/labelKeyboard"
+        android:layout_below="@id/dummyEdit"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KEYBOARD_NOKEYS"
+        android:id="@+id/valueKeyboard"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/dummyEdit"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Configuration.keyboardHidden:"
+        android:id="@+id/labelKeyboardHidden"
+        android:layout_below="@+id/labelKeyboard"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KEYBOARDHIDDEN_NO"
+        android:id="@+id/valueKeyboardHidden"
+        android:layout_below="@id/valueKeyboard"
+        android:layout_alignParentRight="true"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Configuration.hardKeyboardHidden "
+        android:id="@+id/labelHardKeyboardHidden"
+        android:layout_below="@id/labelKeyboardHidden"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HARDKEYBOARDHIDDEN_YES"
+        android:id="@+id/valueHardKeyboardHidden"
+        android:layout_below="@id/valueKeyboardHidden"
+        android:layout_alignParentRight="true"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="ConfigChange events:\n"
+        android:id="@+id/eventlog"
+        android:layout_below="@id/labelHardKeyboardHidden"
+        android:layout_alignParentLeft="true"
+        android:textSize="11dp" />
+
+</RelativeLayout>
