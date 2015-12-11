@@ -13,7 +13,7 @@ of white listed sites.
 * To Contribute code to this repository you must be [signed up as an official contributor](http://blackberry.github.com/howToContribute.html).
 
 ## Screenshots ##
-![image](https://gitlab.rim.net/snarula/securebrowser/raw/master/screenshots/screenshot1.png)        ![image](https://gitlab.rim.net/snarula/securebrowser/raw/master/screenshots/screenshot2.png)
+![image](https://raw.githubusercontent.com/narulasanam/Android-Samples/master/SecureBrowser/screenshots/screenshot1.png)        ![image](https://raw.githubusercontent.com/narulasanam/Android-Samples/master/SecureBrowser/screenshots/screenshot2.png)
 
 ## How To Build
 
