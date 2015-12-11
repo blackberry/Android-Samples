@@ -1,4 +1,4 @@
-/* Copyright (c) 2014-2015 BlackBerry Limited.
+/* Copyright (c) 2011-2015 BlackBerry Limited.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -12,6 +12,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
 package com.blackberry.securebrowser;
 
 import android.content.Context;
