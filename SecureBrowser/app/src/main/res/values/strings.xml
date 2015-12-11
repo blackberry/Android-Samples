@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SecureBrowser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_back">back</string>
+    <string name="not_allowed">Not allowed Buddy</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="address_bar_empty">"Address bar is empty"</string>
+	
+	<!--
+        The list of white listed sites goes here.
+    -->
+    <string-array name="site_array">
+        <item>http://www.google.ca</item>
+        <item>http://devblog.blackberry.com</item>
+        <item>http://developers.google.com</item>
+        <item>http://www.stackoverflow.com</item>
+    </string-array>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+</resources>
