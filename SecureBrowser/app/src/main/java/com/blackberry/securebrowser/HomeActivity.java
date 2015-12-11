@@ -1,4 +1,4 @@
-/* Copyright (c) 2015 BlackBerry Limited.
+/* Copyright (c) 2014-2015 BlackBerry Limited.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -39,8 +39,6 @@ import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.example.snarula.securebrowser.R;
 
 import java.util.Arrays;
 import java.util.List;
