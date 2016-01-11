@@ -12,7 +12,7 @@ This sample shows how to verify the presence of google play services on the devi
 * To Contribute code to this repository you must be [signed up as an official contributor](http://blackberry.github.com/howToContribute.html).
 
 ## Screenshots ##
-![image](https://raw.githubusercontent.com/narulasanam/Android-Samples/master/googleplayservicestest/screenshots/Screenshot1.png)        ![image](https://raw.githubusercontent.com/narulasanam/Android-Samples/master/googleplayservicestest/screenshots/Screenshot2.png)
+![image](https://raw.githubusercontent.com/narulasanam/Android-Samples/master/GooglePlayServicesTest/screenshots/screenshot1.png)        ![image](https://raw.githubusercontent.com/narulasanam/Android-Samples/master/GooglePlayServicesTest/screenshots/screenshot2.png)
 
 ## How To Build
 
