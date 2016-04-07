@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/snarula/BidLogin/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/snarula/BidLogin/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">BidLogin</string>
+    <string name="cert_available">BID certificate available.</string>
+    <string name="fail_login">Username or the Password is incorrect.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_text">LOGIN</string>
+    <string name="password">password</string>
+    <string name="query_status">Query Status</string>
+    <string name="report_inserted">BID report inserted.</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="username">admin</string>
+    <string name="version_msg">Your device must be on Android 6.0 release.</string>
+    <string name="warning_msg">This Feature is available only on PRIV by Blackberry.</string>
+</resources>
