@@ -1,4 +1,4 @@
-# BID Login
+# BID NFC
 
 This sample shows how to use BID(Blackberry Integrity Detection) in your NFC transaction application.
 
