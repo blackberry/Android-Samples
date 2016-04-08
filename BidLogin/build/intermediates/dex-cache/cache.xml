@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\snarula\BidLogin\app\libs\bcprov-jdk15on-1.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="960dea7c9181ba0b17e8bab0c06a43f0a5f04e65">
+        <dex dex="C:\Users\snarula\BidLogin\app\build\intermediates\pre-dexed\debug\bcprov-jdk15on-1.48-39540fb33d0a008f076ed2951f56544e41433bd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\snarula\BidLogin\app\libs\bcpkix-jdk15on-1.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="28b7614b908a47844bb27e3c94b45b6893656265">
+        <dex dex="C:\Users\snarula\BidLogin\app\build\intermediates\pre-dexed\debug\bcpkix-jdk15on-1.48-fde579988cf0758191072e4db0bdc8ccf2af0a2a.jar" />
+    </item>
+
+</items>
